@@ -76,7 +76,7 @@ read it before opening a new issue about your will.")
 (let ((colors '(;; Upstream theme color
                 (quixotic-bg      "#101313" "unspecified-bg" "unspecified-bg") ; official background
                 (quixotic-fg      "#d7d7d7" "#ffffff" "brightwhite") ; official foreground
-                (quixotic-current "#44475a" "#303030" "brightblack") ; official current-line/selection
+                (quixotic-current "#2E1A47" "#303030" "brightblack") ; official current-line/selection
                 (quixotic-comment "#008ce3" "#5f5faf" "blue")        ; official comment
                 (quixotic-cyan    "#3dddd8" "#87d7ff" "brightcyan")  ; official cyan
                 (quixotic-green   "#2ac68e" "#5fff87" "green")       ; official green
