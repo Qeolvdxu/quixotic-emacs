@@ -3,7 +3,7 @@ Quixotic Theme for Emacs text editor
 
 Color scheme URL: https://github.com/QuixoticCS
 
-##Install manually
+## Install manually
 
 Add the emacs theme files to ~/.emacs.d/themes.
 
