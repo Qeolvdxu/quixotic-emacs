@@ -10,5 +10,5 @@ Add the emacs theme files to ~/.emacs.d/themes.
 To load a theme add the following to your init.el
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
-(load-theme 'dracula t)
+(load-theme 'quixotic t)
 
